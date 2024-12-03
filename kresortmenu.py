@@ -44,14 +44,13 @@ with st.sidebar:
           **More Information**
           
       
-           - [Info.Memorandom (IM)](https://kevinoh-prawnfarmim.streamlit.app/)        
+           - [Info.Memorandom (IM)](https://kevinoh-kresortpdfim.streamlit.app/)        
     
            - [Watch to video ](https://www.youtube.com/watch?v=6b1FXjuQv_M)
-           - [Brochure ](https://kevinoh-prawnfarmbrochure.streamlit.app/)
-           
-           - [Production Step ](https://kevinoh0418-prawnstep.streamlit.app/)
 
-           - [Location ](streamlit run kresortmap.py)
+           - [Brochure ](https://kevinoh-kresortbrochure.streamlit.app/)
+           
+           - [Location ](https://kevinoh-kresortmap.streamlit.app/)
            
            - [Expression of Interest EOI](https://drive.google.com/file/d/1_EO9zTIYoVegcRcGaDNDAHckHiPng7pM/view?usp=drive_link)
           
