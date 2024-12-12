@@ -5,23 +5,23 @@ st.write("**in QLD  Australia**")
 
 st.markdown(
 """    
-    :blue[The Kooralbyn Resort was built by Peter Abels and George Arthurs in 1973]\n 
-    1988-2002 : a Japanese hotel group\n
-    2002-2014 : New Zealand hotel operator Ray Schofield\n
-    2004 : runs by current owner\n
-    
-    Japanese company harvested about 150 tons per year for 10 years from 1993\n
-    :blue[Secure Income Stream]\n
-    - Production 126 tons 13ha Sales are 3.3mil profit 1.1mil
-    - Production 230 tons 23ha Sales are 4.53mil profit 2.2mil
-    - Production is mainly Costco (70%) and fish market (30%) sales\n
-    :blue[Future Development]\n
-    The total 142 ha, the aquaculture licensed is 50 ha and 70 ha is expected.
-    Currently 25 ha is being produced and gradually expanded
-    Over 100 approved species and  being tested for profitability.
+    :blue[The Kooralbyn Resort was run and built by Japan Hotel  1988-2002]\n 
 
-
+    :blue[Overview]\n
+    The prestigious   Kooralbyn Resort Valley and its associated assets \n
+    are now on the market for a limited time.\n
+    Located in the scenic Gold Coast hinterland, this iconic\n
     
+    :blue[Key Features]\n
+    - Integrated Resort: Australia's first integrated golf resort\n 
+      featuring 102 fully renovated rooms, dining facilities,\n 
+      and an international-grade convention center.\n
+    - Golf Course: Championship 18-hole par 72 course, previously ranked No.1 in Queensland.\n 
+•	
+   :blue[Development Approvals:]\n
+   
+    - Up to 500 hotel rooms.\n 
+    - Around 1,000 retirement/50+ living homes.\n
  
 
 """
